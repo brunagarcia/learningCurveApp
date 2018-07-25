@@ -1,0 +1,516 @@
+{
+
+    "students": [{
+				"name": "Chantal",
+				"weeks": [{
+								"week": 1,
+								"mon": 5,
+								"wed": 8,
+								"fri": 2
+						},
+						{
+								"week": 2,
+								"mon": 0,
+								"wed": 0,
+								"fri": 0
+						},
+						{
+								"week": 3,
+								"mon": 0,
+								"wed": 0,
+								"fri": 0
+						},
+						{
+								"week": 4,
+								"mon": 0,
+								"wed": 0,
+								"fri": 0
+						},
+						{
+								"week": 5,
+								"mon": 0,
+								"wed": 0,
+								"fri": 0
+						},
+						{
+								"week": 6,
+								"mon": 0,
+								"wed": 0,
+								"fri": 0
+						},
+						{
+								"week": 7,
+								"mon": 0,
+								"wed": 0,
+								"fri": 0
+						},
+						{
+								"week": 8,
+								"mon": 0,
+								"wed": 0,
+								"fri": 0
+						},
+						{
+								"week": 9,
+								"mon": 0,
+								"wed": 0,
+								"fri": 0
+						},
+						{
+								"week": 10,
+								"mon": 0,
+								"wed": 0,
+								"fri": 0
+						}
+				]
+		},
+		{
+				"name": "Drew",
+				"weeks": [{
+								"week": 1,
+								"mon": 0,
+								"wed": 0,
+								"fri": 0
+						},
+						{
+								"week": 2,
+								"mon": 0,
+								"wed": 0,
+								"fri": 0
+						},
+						{
+								"week": 3,
+								"mon": 0,
+								"wed": 0,
+								"fri": 0
+						},
+						{
+								"week": 4,
+								"mon": 0,
+								"wed": 0,
+								"fri": 0
+						},
+						{
+								"week": 5,
+								"mon": 0,
+								"wed": 0,
+								"fri": 0
+						},
+						{
+								"week": 6,
+								"mon": 0,
+								"wed": 0,
+								"fri": 0
+						},
+						{
+								"week": 7,
+								"mon": 0,
+								"wed": 0,
+								"fri": 0
+						},
+						{
+								"week": 8,
+								"mon": 0,
+								"wed": 0,
+								"fri": 0
+						},
+						{
+								"week": 9,
+								"mon": 0,
+								"wed": 0,
+								"fri": 0
+						},
+						{
+								"week": 10,
+								"mon": 0,
+								"wed": 0,
+								"fri": 0
+						}
+				]
+		},
+		{
+				"name": "Graham",
+				"weeks": [{
+								"week": 1,
+								"mon": 0,
+								"wed": 0,
+								"fri": 0
+						},
+						{
+								"week": 2,
+								"mon": 0,
+								"wed": 0,
+								"fri": 0
+						},
+						{
+								"week": 3,
+								"mon": 0,
+								"wed": 0,
+								"fri": 0
+						},
+						{
+								"week": 4,
+								"mon": 0,
+								"wed": 0,
+								"fri": 0
+						},
+						{
+								"week": 5,
+								"mon": 0,
+								"wed": 0,
+								"fri": 0
+						},
+						{
+								"week": 6,
+								"mon": 0,
+								"wed": 0,
+								"fri": 0
+						},
+						{
+								"week": 7,
+								"mon": 0,
+								"wed": 0,
+								"fri": 0
+						},
+						{
+								"week": 8,
+								"mon": 0,
+								"wed": 0,
+								"fri": 0
+						},
+						{
+								"week": 9,
+								"mon": 0,
+								"wed": 0,
+								"fri": 0
+						},
+						{
+								"week": 10,
+								"mon": 0,
+								"wed": 0,
+								"fri": 0
+						}
+				]
+		},
+		{
+				"name": "Sydney",
+				"weeks": [{
+								"week": 1,
+								"mon": 0,
+								"wed": 0,
+								"fri": 0
+						},
+						{
+								"week": 2,
+								"mon": 0,
+								"wed": 0,
+								"fri": 0
+						},
+						{
+								"week": 3,
+								"mon": 0,
+								"wed": 0,
+								"fri": 0
+						},
+						{
+								"week": 4,
+								"mon": 0,
+								"wed": 0,
+								"fri": 0
+						},
+						{
+								"week": 5,
+								"mon": 0,
+								"wed": 0,
+								"fri": 0
+						},
+						{
+								"week": 6,
+								"mon": 0,
+								"wed": 0,
+								"fri": 0
+						},
+						{
+								"week": 7,
+								"mon": 0,
+								"wed": 0,
+								"fri": 0
+						},
+						{
+								"week": 8,
+								"mon": 0,
+								"wed": 0,
+								"fri": 0
+						},
+						{
+								"week": 9,
+								"mon": 0,
+								"wed": 0,
+								"fri": 0
+						},
+						{
+								"week": 10,
+								"mon": 0,
+								"wed": 0,
+								"fri": 0
+						}
+				]
+		},
+		{
+				"name": "Tim",
+				"weeks": [{
+								"week": 1,
+								"mon": 0,
+								"wed": 0,
+								"fri": 0
+						},
+						{
+								"week": 2,
+								"mon": 0,
+								"wed": 0,
+								"fri": 0
+						},
+						{
+								"week": 3,
+								"mon": 0,
+								"wed": 0,
+								"fri": 0
+						},
+						{
+								"week": 4,
+								"mon": 0,
+								"wed": 0,
+								"fri": 0
+						},
+						{
+								"week": 5,
+								"mon": 0,
+								"wed": 0,
+								"fri": 0
+						},
+						{
+								"week": 6,
+								"mon": 0,
+								"wed": 0,
+								"fri": 0
+						},
+						{
+								"week": 7,
+								"mon": 0,
+								"wed": 0,
+								"fri": 0
+						},
+						{
+								"week": 8,
+								"mon": 0,
+								"wed": 0,
+								"fri": 0
+						},
+						{
+								"week": 9,
+								"mon": 0,
+								"wed": 0,
+								"fri": 0
+						},
+						{
+								"week": 10,
+								"mon": 0,
+								"wed": 0,
+								"fri": 0
+					}
+			]
+		},
+		{
+			"name": "Victor",
+			"weeks": [{
+							"week": 1,
+							"mon": 0,
+							"wed": 0,
+							"fri": 0
+					},
+					{
+							"week": 2,
+							"mon": 0,
+							"wed": 0,
+							"fri": 0
+					},
+					{
+							"week": 3,
+							"mon": 0,
+							"wed": 0,
+							"fri": 0
+					},
+					{
+							"week": 4,
+							"mon": 0,
+							"wed": 0,
+							"fri": 0
+					},
+					{
+							"week": 5,
+							"mon": 0,
+							"wed": 0,
+							"fri": 0
+					},
+					{
+							"week": 6,
+							"mon": 0,
+							"wed": 0,
+							"fri": 0
+					},
+					{
+							"week": 7,
+							"mon": 0,
+							"wed": 0,
+							"fri": 0
+					},
+					{
+							"week": 8,
+							"mon": 0,
+							"wed": 0,
+							"fri": 0
+					},
+					{
+							"week": 9,
+							"mon": 0,
+							"wed": 0,
+							"fri": 0
+					},
+					{
+							"week": 10,
+							"mon": 0,
+							"wed": 0,
+							"fri": 0
+				}
+			]
+		},
+		{
+			"name": "William",
+			"weeks": [{
+							"week": 1,
+							"mon": 0,
+							"wed": 0,
+							"fri": 0
+					},
+					{
+							"week": 2,
+							"mon": 0,
+							"wed": 0,
+							"fri": 0
+					},
+					{
+							"week": 3,
+							"mon": 0,
+							"wed": 0,
+							"fri": 0
+					},
+					{
+							"week": 4,
+							"mon": 0,
+							"wed": 0,
+							"fri": 0
+					},
+					{
+							"week": 5,
+							"mon": 0,
+							"wed": 0,
+							"fri": 0
+					},
+					{
+							"week": 6,
+							"mon": 0,
+							"wed": 0,
+							"fri": 0
+					},
+					{
+							"week": 7,
+							"mon": 0,
+							"wed": 0,
+							"fri": 0
+					},
+					{
+							"week": 8,
+							"mon": 0,
+							"wed": 0,
+							"fri": 0
+					},
+					{
+							"week": 9,
+							"mon": 0,
+							"wed": 0,
+							"fri": 0
+					},
+					{
+							"week": 10,
+							"mon": 0,
+							"wed": 0,
+						"fri": 0
+				}
+			]
+		},
+		{
+			"name": "Yashar",
+			"weeks": [{
+							"week": 1,
+							"mon": 0,
+							"wed": 0,
+							"fri": 0
+					},
+					{
+							"week": 2,
+							"mon": 0,
+							"wed": 0,
+							"fri": 0
+					},
+					{
+							"week": 3,
+							"mon": 0,
+							"wed": 0,
+							"fri": 0
+					},
+					{
+							"week": 4,
+							"mon": 0,
+							"wed": 0,
+							"fri": 0
+					},
+					{
+							"week": 5,
+							"mon": 0,
+							"wed": 0,
+							"fri": 0
+					},
+					{
+							"week": 6,
+							"mon": 0,
+							"wed": 0,
+							"fri": 0
+					},
+					{
+							"week": 7,
+							"mon": 0,
+							"wed": 0,
+							"fri": 0
+					},
+					{
+							"week": 8,
+							"mon": 0,
+							"wed": 0,
+							"fri": 0
+					},
+					{
+							"week": 9,
+							"mon": 0,
+							"wed": 0,
+							"fri": 0
+					},
+					{
+							"week": 10,
+							"mon": 0,
+							"wed": 0,
+							"fri": 0
+					}
+			]
+		}
+	]
+}	
